@@ -18,8 +18,7 @@
 
 # 3. Evaluation
 &#8194;&#8194; We performed Leave-One-Out (LOO) cross-validation to evaluate the results. For each sample with measured transcriptome data, we constructed a tensor excluding this sample (i.e., the holdout sample), applied CP factorization, and imputed the missing transcriptome. Imputation performance was evaluated using four measurements: Pearson correlation coefficient (PCC), R-squared (R2), Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE). We provide R codes at folder Tensor_imputation/Tensor_evaluation.R for imputation performance evaluation.   
-&#8194;&#8194; Additionally, to avoid outlier prediction, for each gene, we also set a max imputation threshold value, defined as: max observed value + interquartile range (IQR). IQR is a measure of statistical dispersion and is calculated as the difference between the 75th and 25th percentiles. It is represented by the formula IQR = Q3 − Q1.
-
+&#8194;&#8194; Additionally, to avoid outlier prediction, we also defined a per-gene confidence interval, as: max observed value + interquartile range (IQR). IQR is a measure of statistical dispersion and is calculated as the difference between the 75th and 25th percentiles.
 # 4. Imputation result
 &#8194;&#8194; develop a per-gene confidence interval 
 
