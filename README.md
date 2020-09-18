@@ -21,7 +21,7 @@
 &#8194;&#8194; Additionally, to avoid outlier prediction, for each gene, we also set a max imputation threshold value, defined as: max observed value + interquartile range (IQR). IQR is a measure of statistical dispersion and is calculated as the difference between the 75th and 25th percentiles. It is represented by the formula IQR = Q3 − Q1.
 
 # 4. Imputation result
-&#8194;&#8194; To obtain robust results, we repeated the imputation procedure 100 times. For each gene, we used the median of 100 imputed values as final results. We provide the final completed BrainSpan data at folder Tensor_imputation/BrainSpan_imputation.zip. 
+&#8194;&#8194; develop a per-gene confidence interval 
 
 # 5. Cell type deconvolution analysis
 &#8194;&#8194; To repeat our cell type deconvolution analysis results, user can download the cell type signatures from Cell_type_deconvolution folder, then apply CIBERSORT (https://cibersort.stanford.edu/).
