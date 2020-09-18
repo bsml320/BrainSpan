@@ -13,7 +13,7 @@
 &#8194;&#8194;&#8194;&#8194;&#8194;&#8194;  `>  BrainSpan_FPKM = read.csv("expression_matrix.csv", head = F, row.names = 1)`  
 &#8194;&#8194;&#8194;&#8194;&#8194;&#8194;  `>  BrainSpan_row_info = read.csv("rows_metadata.csv")`  
 &#8194;&#8194;&#8194;&#8194;&#8194;&#8194;  `>  BrainSpan_col_info = read.csv("columns_metadata.csv")`  
-&#8194;&#8194;&#8194;&#8194; The prepocess and imputation Rscript is avaiable at Tensor_imputation/Tensor_imputation.R. In this study, only protein coding genes were selected for downstream analysis. As an example, we only use the first 500 genes for testing. Each round will take 3 days when using all genes for imputation (single thread on Intel(R) Xeon(R) Platinum 8276L CPU).
+&#8194;&#8194;&#8194;&#8194; The prepocess and imputation Rscript is avaiable at Tensor_imputation/Tensor_imputation.R. In this study, only protein coding genes were selected for downstream analysis. Each round imputation will take 3 days when using single thread on Intel(R) Xeon(R) Platinum 8276L CPU. Here as an example, we only use the first 500 genes for testing.
 
 # 3. Evaluation
 &#8194;&#8194;&#8194;&#8194; We performed Leave-One-Out (LOO) cross-validation to evaluate the results. For each sample with measured transcriptome data, we constructed a tensor excluding this sample (i.e., the holdout sample), applied CP factorization, and imputed the missing transcriptome. Imputation performance was evaluated using four measurements: Pearson correlation coefficient (PCC), R-squared (R2), Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE). We provide R codes at folder Tensor_imputation/Tensor_evaluation.R for imputation performance evaluation.
