@@ -1,0 +1,561 @@
+ID	Sample_ID	Donor_name	Age	Sex	Imputation status	Growth_stage	Brain_region	Structure_name
+1	H376.IIB.50_AMY	H376.IIB.50	12 pcw	F		Early prenatal	AMY	amygdaloid complex
+2	H376.IIB.50_STC	H376.IIB.50	12 pcw	F		Early prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+3	H376.IIB.50_MFC	H376.IIB.50	12 pcw	F		Early prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+4	H376.IIB.50_DFC	H376.IIB.50	12 pcw	F		Early prenatal	DFC	dorsolateral prefrontal cortex
+5	H376.IIB.50_OFC	H376.IIB.50	12 pcw	F		Early prenatal	OFC	orbital frontal cortex
+6	H376.IIB.50_ITC	H376.IIB.50	12 pcw	F		Early prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+7	H376.IIB.50_HIP	H376.IIB.50	12 pcw	F		Early prenatal	HIP	hippocampus (hippocampal formation)
+8	H376.IIB.50_VFC	H376.IIB.50	12 pcw	F		Early prenatal	VFC	ventrolateral prefrontal cortex
+9	H376.IIB.50_A1C	H376.IIB.50	12 pcw	F		Early prenatal	A1C	primary auditory cortex (core)
+10	H376.IIB.50_V1C	H376.IIB.50	12 pcw	F		Early prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+11	H376.IIB.50_STR	H376.IIB.50	12 pcw	F		Early prenatal	STR	striatum
+12	H376.IIB.50_M1C	H376.IIB.50	12 pcw	F		Early prenatal	M1C	primary motor cortex (area M1, area 4)
+13	H376.IIB.50_IPC	H376.IIB.50	12 pcw	F		Early prenatal	IPC	posteroventral (inferior) parietal cortex
+14	H376.IIB.50_S1C	H376.IIB.50	12 pcw	F		Early prenatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+15	H376.IIB.50_CBC	H376.IIB.50	12 pcw	F	Yes	Early prenatal	CBC	cerebellar cortex
+16	H376.IIB.50_MD	H376.IIB.50	12 pcw	F	Yes	Early prenatal	MD	mediodorsal nucleus of thalamus
+17	H376.IIB.51_AMY	H376.IIB.51	12 pcw	F		Early prenatal	AMY	amygdaloid complex
+18	H376.IIB.51_STC	H376.IIB.51	12 pcw	F		Early prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+19	H376.IIB.51_MFC	H376.IIB.51	12 pcw	F	Yes	Early prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+20	H376.IIB.51_DFC	H376.IIB.51	12 pcw	F		Early prenatal	DFC	dorsolateral prefrontal cortex
+21	H376.IIB.51_OFC	H376.IIB.51	12 pcw	F		Early prenatal	OFC	orbital frontal cortex
+22	H376.IIB.51_ITC	H376.IIB.51	12 pcw	F		Early prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+23	H376.IIB.51_HIP	H376.IIB.51	12 pcw	F		Early prenatal	HIP	hippocampus (hippocampal formation)
+24	H376.IIB.51_VFC	H376.IIB.51	12 pcw	F		Early prenatal	VFC	ventrolateral prefrontal cortex
+25	H376.IIB.51_A1C	H376.IIB.51	12 pcw	F		Early prenatal	A1C	primary auditory cortex (core)
+26	H376.IIB.51_V1C	H376.IIB.51	12 pcw	F		Early prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+27	H376.IIB.51_STR	H376.IIB.51	12 pcw	F		Early prenatal	STR	striatum
+28	H376.IIB.51_M1C	H376.IIB.51	12 pcw	F		Early prenatal	M1C	primary motor cortex (area M1, area 4)
+29	H376.IIB.51_IPC	H376.IIB.51	12 pcw	F		Early prenatal	IPC	posteroventral (inferior) parietal cortex
+30	H376.IIB.51_S1C	H376.IIB.51	12 pcw	F		Early prenatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+31	H376.IIB.51_CBC	H376.IIB.51	12 pcw	F	Yes	Early prenatal	CBC	cerebellar cortex
+32	H376.IIB.51_MD	H376.IIB.51	12 pcw	F	Yes	Early prenatal	MD	mediodorsal nucleus of thalamus
+33	H376.IIB.52_AMY	H376.IIB.52	12 pcw	F		Early prenatal	AMY	amygdaloid complex
+34	H376.IIB.52_STC	H376.IIB.52	12 pcw	F	Yes	Early prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+35	H376.IIB.52_MFC	H376.IIB.52	12 pcw	F		Early prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+36	H376.IIB.52_DFC	H376.IIB.52	12 pcw	F		Early prenatal	DFC	dorsolateral prefrontal cortex
+37	H376.IIB.52_OFC	H376.IIB.52	12 pcw	F		Early prenatal	OFC	orbital frontal cortex
+38	H376.IIB.52_ITC	H376.IIB.52	12 pcw	F		Early prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+39	H376.IIB.52_HIP	H376.IIB.52	12 pcw	F		Early prenatal	HIP	hippocampus (hippocampal formation)
+40	H376.IIB.52_VFC	H376.IIB.52	12 pcw	F		Early prenatal	VFC	ventrolateral prefrontal cortex
+41	H376.IIB.52_A1C	H376.IIB.52	12 pcw	F		Early prenatal	A1C	primary auditory cortex (core)
+42	H376.IIB.52_V1C	H376.IIB.52	12 pcw	F		Early prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+43	H376.IIB.52_STR	H376.IIB.52	12 pcw	F		Early prenatal	STR	striatum
+44	H376.IIB.52_M1C	H376.IIB.52	12 pcw	F		Early prenatal	M1C	primary motor cortex (area M1, area 4)
+45	H376.IIB.52_IPC	H376.IIB.52	12 pcw	F		Early prenatal	IPC	posteroventral (inferior) parietal cortex
+46	H376.IIB.52_S1C	H376.IIB.52	12 pcw	F		Early prenatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+47	H376.IIB.52_CBC	H376.IIB.52	12 pcw	F		Early prenatal	CBC	cerebellar cortex
+48	H376.IIB.52_MD	H376.IIB.52	12 pcw	F	Yes	Early prenatal	MD	mediodorsal nucleus of thalamus
+49	H376.IIIA.50_AMY	H376.IIIA.50	13 pcw	M		Intermediate prenatal	AMY	amygdaloid complex
+50	H376.IIIA.50_STC	H376.IIIA.50	13 pcw	M		Intermediate prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+51	H376.IIIA.50_MFC	H376.IIIA.50	13 pcw	M		Intermediate prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+52	H376.IIIA.50_DFC	H376.IIIA.50	13 pcw	M		Intermediate prenatal	DFC	dorsolateral prefrontal cortex
+53	H376.IIIA.50_OFC	H376.IIIA.50	13 pcw	M		Intermediate prenatal	OFC	orbital frontal cortex
+54	H376.IIIA.50_ITC	H376.IIIA.50	13 pcw	M		Intermediate prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+55	H376.IIIA.50_HIP	H376.IIIA.50	13 pcw	M		Intermediate prenatal	HIP	hippocampus (hippocampal formation)
+56	H376.IIIA.50_VFC	H376.IIIA.50	13 pcw	M		Intermediate prenatal	VFC	ventrolateral prefrontal cortex
+57	H376.IIIA.50_A1C	H376.IIIA.50	13 pcw	M		Intermediate prenatal	A1C	primary auditory cortex (core)
+58	H376.IIIA.50_V1C	H376.IIIA.50	13 pcw	M		Intermediate prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+59	H376.IIIA.50_STR	H376.IIIA.50	13 pcw	M		Intermediate prenatal	STR	striatum
+60	H376.IIIA.50_M1C	H376.IIIA.50	13 pcw	M		Intermediate prenatal	M1C	primary motor cortex (area M1, area 4)
+61	H376.IIIA.50_IPC	H376.IIIA.50	13 pcw	M		Intermediate prenatal	IPC	posteroventral (inferior) parietal cortex
+62	H376.IIIA.50_S1C	H376.IIIA.50	13 pcw	M		Intermediate prenatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+63	H376.IIIA.50_CBC	H376.IIIA.50	13 pcw	M	Yes	Intermediate prenatal	CBC	cerebellar cortex
+64	H376.IIIA.50_MD	H376.IIIA.50	13 pcw	M	Yes	Intermediate prenatal	MD	mediodorsal nucleus of thalamus
+65	H376.IIIA.51_AMY	H376.IIIA.51	13 pcw	F		Intermediate prenatal	AMY	amygdaloid complex
+66	H376.IIIA.51_STC	H376.IIIA.51	13 pcw	F		Intermediate prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+67	H376.IIIA.51_MFC	H376.IIIA.51	13 pcw	F		Intermediate prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+68	H376.IIIA.51_DFC	H376.IIIA.51	13 pcw	F		Intermediate prenatal	DFC	dorsolateral prefrontal cortex
+69	H376.IIIA.51_OFC	H376.IIIA.51	13 pcw	F		Intermediate prenatal	OFC	orbital frontal cortex
+70	H376.IIIA.51_ITC	H376.IIIA.51	13 pcw	F		Intermediate prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+71	H376.IIIA.51_HIP	H376.IIIA.51	13 pcw	F		Intermediate prenatal	HIP	hippocampus (hippocampal formation)
+72	H376.IIIA.51_VFC	H376.IIIA.51	13 pcw	F		Intermediate prenatal	VFC	ventrolateral prefrontal cortex
+73	H376.IIIA.51_A1C	H376.IIIA.51	13 pcw	F		Intermediate prenatal	A1C	primary auditory cortex (core)
+74	H376.IIIA.51_V1C	H376.IIIA.51	13 pcw	F		Intermediate prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+75	H376.IIIA.51_STR	H376.IIIA.51	13 pcw	F		Intermediate prenatal	STR	striatum
+76	H376.IIIA.51_M1C	H376.IIIA.51	13 pcw	F		Intermediate prenatal	M1C	primary motor cortex (area M1, area 4)
+77	H376.IIIA.51_IPC	H376.IIIA.51	13 pcw	F		Intermediate prenatal	IPC	posteroventral (inferior) parietal cortex
+78	H376.IIIA.51_S1C	H376.IIIA.51	13 pcw	F		Intermediate prenatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+79	H376.IIIA.51_CBC	H376.IIIA.51	13 pcw	F	Yes	Intermediate prenatal	CBC	cerebellar cortex
+80	H376.IIIA.51_MD	H376.IIIA.51	13 pcw	F		Intermediate prenatal	MD	mediodorsal nucleus of thalamus
+81	H376.IIIA.52_AMY	H376.IIIA.52	13 pcw	M		Intermediate prenatal	AMY	amygdaloid complex
+82	H376.IIIA.52_STC	H376.IIIA.52	13 pcw	M	Yes	Intermediate prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+83	H376.IIIA.52_MFC	H376.IIIA.52	13 pcw	M		Intermediate prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+84	H376.IIIA.52_DFC	H376.IIIA.52	13 pcw	M		Intermediate prenatal	DFC	dorsolateral prefrontal cortex
+85	H376.IIIA.52_OFC	H376.IIIA.52	13 pcw	M		Intermediate prenatal	OFC	orbital frontal cortex
+86	H376.IIIA.52_ITC	H376.IIIA.52	13 pcw	M		Intermediate prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+87	H376.IIIA.52_HIP	H376.IIIA.52	13 pcw	M		Intermediate prenatal	HIP	hippocampus (hippocampal formation)
+88	H376.IIIA.52_VFC	H376.IIIA.52	13 pcw	M		Intermediate prenatal	VFC	ventrolateral prefrontal cortex
+89	H376.IIIA.52_A1C	H376.IIIA.52	13 pcw	M		Intermediate prenatal	A1C	primary auditory cortex (core)
+90	H376.IIIA.52_V1C	H376.IIIA.52	13 pcw	M		Intermediate prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+91	H376.IIIA.52_STR	H376.IIIA.52	13 pcw	M		Intermediate prenatal	STR	striatum
+92	H376.IIIA.52_M1C	H376.IIIA.52	13 pcw	M		Intermediate prenatal	M1C	primary motor cortex (area M1, area 4)
+93	H376.IIIA.52_IPC	H376.IIIA.52	13 pcw	M		Intermediate prenatal	IPC	posteroventral (inferior) parietal cortex
+94	H376.IIIA.52_S1C	H376.IIIA.52	13 pcw	M		Intermediate prenatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+95	H376.IIIA.52_CBC	H376.IIIA.52	13 pcw	M	Yes	Intermediate prenatal	CBC	cerebellar cortex
+96	H376.IIIA.52_MD	H376.IIIA.52	13 pcw	M	Yes	Intermediate prenatal	MD	mediodorsal nucleus of thalamus
+97	H376.IIIB.50_AMY	H376.IIIB.50	13 pcw	M	Yes	Intermediate prenatal	AMY	amygdaloid complex
+98	H376.IIIB.50_STC	H376.IIIB.50	16 pcw	M		Intermediate prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+99	H376.IIIB.50_MFC	H376.IIIB.50	16 pcw	M		Intermediate prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+100	H376.IIIB.50_DFC	H376.IIIB.50	16 pcw	M		Intermediate prenatal	DFC	dorsolateral prefrontal cortex
+101	H376.IIIB.50_OFC	H376.IIIB.50	16 pcw	M		Intermediate prenatal	OFC	orbital frontal cortex
+102	H376.IIIB.50_ITC	H376.IIIB.50	16 pcw	M	Yes	Intermediate prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+103	H376.IIIB.50_HIP	H376.IIIB.50	16 pcw	M	Yes	Intermediate prenatal	HIP	hippocampus (hippocampal formation)
+104	H376.IIIB.50_VFC	H376.IIIB.50	16 pcw	M		Intermediate prenatal	VFC	ventrolateral prefrontal cortex
+105	H376.IIIB.50_A1C	H376.IIIB.50	16 pcw	M		Intermediate prenatal	A1C	primary auditory cortex (core)
+106	H376.IIIB.50_V1C	H376.IIIB.50	16 pcw	M		Intermediate prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+107	H376.IIIB.50_STR	H376.IIIB.50	16 pcw	M		Intermediate prenatal	STR	striatum
+108	H376.IIIB.50_M1C	H376.IIIB.50	16 pcw	M	Yes	Intermediate prenatal	M1C	primary motor cortex (area M1, area 4)
+109	H376.IIIB.50_IPC	H376.IIIB.50	16 pcw	M		Intermediate prenatal	IPC	posteroventral (inferior) parietal cortex
+110	H376.IIIB.50_S1C	H376.IIIB.50	16 pcw	M	Yes	Intermediate prenatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+111	H376.IIIB.50_CBC	H376.IIIB.50	16 pcw	M	Yes	Intermediate prenatal	CBC	cerebellar cortex
+112	H376.IIIB.50_MD	H376.IIIB.50	16 pcw	M		Intermediate prenatal	MD	mediodorsal nucleus of thalamus
+113	H376.IIIB.51_AMY	H376.IIIB.51	16 pcw	M		Intermediate prenatal	AMY	amygdaloid complex
+114	H376.IIIB.51_STC	H376.IIIB.51	16 pcw	M		Intermediate prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+115	H376.IIIB.51_MFC	H376.IIIB.51	16 pcw	M		Intermediate prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+116	H376.IIIB.51_DFC	H376.IIIB.51	16 pcw	M		Intermediate prenatal	DFC	dorsolateral prefrontal cortex
+117	H376.IIIB.51_OFC	H376.IIIB.51	16 pcw	M		Intermediate prenatal	OFC	orbital frontal cortex
+118	H376.IIIB.51_ITC	H376.IIIB.51	16 pcw	M		Intermediate prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+119	H376.IIIB.51_HIP	H376.IIIB.51	16 pcw	M		Intermediate prenatal	HIP	hippocampus (hippocampal formation)
+120	H376.IIIB.51_VFC	H376.IIIB.51	16 pcw	M		Intermediate prenatal	VFC	ventrolateral prefrontal cortex
+121	H376.IIIB.51_A1C	H376.IIIB.51	16 pcw	M		Intermediate prenatal	A1C	primary auditory cortex (core)
+122	H376.IIIB.51_V1C	H376.IIIB.51	16 pcw	M		Intermediate prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+123	H376.IIIB.51_STR	H376.IIIB.51	16 pcw	M		Intermediate prenatal	STR	striatum
+124	H376.IIIB.51_M1C	H376.IIIB.51	16 pcw	M		Intermediate prenatal	M1C	primary motor cortex (area M1, area 4)
+125	H376.IIIB.51_IPC	H376.IIIB.51	16 pcw	M		Intermediate prenatal	IPC	posteroventral (inferior) parietal cortex
+126	H376.IIIB.51_S1C	H376.IIIB.51	16 pcw	M		Intermediate prenatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+127	H376.IIIB.51_CBC	H376.IIIB.51	16 pcw	M		Intermediate prenatal	CBC	cerebellar cortex
+128	H376.IIIB.51_MD	H376.IIIB.51	16 pcw	M		Intermediate prenatal	MD	mediodorsal nucleus of thalamus
+129	H376.IIIB.52_AMY	H376.IIIB.52	16 pcw	M		Intermediate prenatal	AMY	amygdaloid complex
+130	H376.IIIB.52_STC	H376.IIIB.52	16 pcw	M		Intermediate prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+131	H376.IIIB.52_MFC	H376.IIIB.52	16 pcw	M		Intermediate prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+132	H376.IIIB.52_DFC	H376.IIIB.52	16 pcw	M		Intermediate prenatal	DFC	dorsolateral prefrontal cortex
+133	H376.IIIB.52_OFC	H376.IIIB.52	16 pcw	M	Yes	Intermediate prenatal	OFC	orbital frontal cortex
+134	H376.IIIB.52_ITC	H376.IIIB.52	16 pcw	M		Intermediate prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+135	H376.IIIB.52_HIP	H376.IIIB.52	16 pcw	M		Intermediate prenatal	HIP	hippocampus (hippocampal formation)
+136	H376.IIIB.52_VFC	H376.IIIB.52	16 pcw	M		Intermediate prenatal	VFC	ventrolateral prefrontal cortex
+137	H376.IIIB.52_A1C	H376.IIIB.52	16 pcw	M		Intermediate prenatal	A1C	primary auditory cortex (core)
+138	H376.IIIB.52_V1C	H376.IIIB.52	16 pcw	M		Intermediate prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+139	H376.IIIB.52_STR	H376.IIIB.52	16 pcw	M		Intermediate prenatal	STR	striatum
+140	H376.IIIB.52_M1C	H376.IIIB.52	16 pcw	M		Intermediate prenatal	M1C	S1C
+141	H376.IIIB.52_IPC	H376.IIIB.52	16 pcw	M		Intermediate prenatal	IPC	posteroventral (inferior) parietal cortex
+142	H376.IIIB.52_S1C	H376.IIIB.52	16 pcw	M		Intermediate prenatal	S1C	S1C
+143	H376.IIIB.52_CBC	H376.IIIB.52	16 pcw	M	Yes	Intermediate prenatal	CBC	cerebellar cortex
+144	H376.IIIB.52_MD	H376.IIIB.52	16 pcw	M		Intermediate prenatal	MD	mediodorsal nucleus of thalamus
+145	H376.IIIB.53_AMY	H376.IIIB.53	17 pcw	F		Intermediate prenatal	AMY	amygdaloid complex
+146	H376.IIIB.53_STC	H376.IIIB.53	17 pcw	F		Intermediate prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+147	H376.IIIB.53_MFC	H376.IIIB.53	17 pcw	F		Intermediate prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+148	H376.IIIB.53_DFC	H376.IIIB.53	17 pcw	F		Intermediate prenatal	DFC	dorsolateral prefrontal cortex
+149	H376.IIIB.53_OFC	H376.IIIB.53	17 pcw	F		Intermediate prenatal	OFC	orbital frontal cortex
+150	H376.IIIB.53_ITC	H376.IIIB.53	17 pcw	F	Yes	Intermediate prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+151	H376.IIIB.53_HIP	H376.IIIB.53	17 pcw	F		Intermediate prenatal	HIP	hippocampus (hippocampal formation)
+152	H376.IIIB.53_VFC	H376.IIIB.53	17 pcw	F		Intermediate prenatal	VFC	ventrolateral prefrontal cortex
+153	H376.IIIB.53_A1C	H376.IIIB.53	17 pcw	F		Intermediate prenatal	A1C	primary auditory cortex (core)
+154	H376.IIIB.53_V1C	H376.IIIB.53	17 pcw	F		Intermediate prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+155	H376.IIIB.53_STR	H376.IIIB.53	17 pcw	F		Intermediate prenatal	STR	striatum
+156	H376.IIIB.53_M1C	H376.IIIB.53	17 pcw	F		Intermediate prenatal	M1C	S1C
+157	H376.IIIB.53_IPC	H376.IIIB.53	17 pcw	F		Intermediate prenatal	IPC	posteroventral (inferior) parietal cortex
+158	H376.IIIB.53_S1C	H376.IIIB.53	17 pcw	F		Intermediate prenatal	S1C	S1C
+159	H376.IIIB.53_CBC	H376.IIIB.53	17 pcw	F		Intermediate prenatal	CBC	cerebellar cortex
+160	H376.IIIB.53_MD	H376.IIIB.53	17 pcw	F		Intermediate prenatal	MD	mediodorsal nucleus of thalamus
+161	H376.IV.53_AMY	H376.IV.53	19 pcw	F	Yes	Intermediate prenatal	AMY	amygdaloid complex
+162	H376.IV.53_STC	H376.IV.53	19 pcw	F		Intermediate prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+163	H376.IV.53_MFC	H376.IV.53	19 pcw	F		Intermediate prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+164	H376.IV.53_DFC	H376.IV.53	19 pcw	F		Intermediate prenatal	DFC	dorsolateral prefrontal cortex
+165	H376.IV.53_OFC	H376.IV.53	19 pcw	F	Yes	Intermediate prenatal	OFC	orbital frontal cortex
+166	H376.IV.53_ITC	H376.IV.53	19 pcw	F	Yes	Intermediate prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+167	H376.IV.53_HIP	H376.IV.53	19 pcw	F		Intermediate prenatal	HIP	hippocampus (hippocampal formation)
+168	H376.IV.53_VFC	H376.IV.53	19 pcw	F		Intermediate prenatal	VFC	ventrolateral prefrontal cortex
+169	H376.IV.53_A1C	H376.IV.53	19 pcw	F		Intermediate prenatal	A1C	primary auditory cortex (core)
+170	H376.IV.53_V1C	H376.IV.53	19 pcw	F		Intermediate prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+171	H376.IV.53_STR	H376.IV.53	19 pcw	F		Intermediate prenatal	STR	striatum
+172	H376.IV.53_M1C	H376.IV.53	19 pcw	F		Intermediate prenatal	M1C	S1C
+173	H376.IV.53_IPC	H376.IV.53	19 pcw	F		Intermediate prenatal	IPC	posteroventral (inferior) parietal cortex
+174	H376.IV.53_S1C	H376.IV.53	19 pcw	F		Intermediate prenatal	S1C	S1C
+175	H376.IV.53_CBC	H376.IV.53	19 pcw	F	Yes	Intermediate prenatal	CBC	cerebellar cortex
+176	H376.IV.53_MD	H376.IV.53	19 pcw	F		Intermediate prenatal	MD	mediodorsal nucleus of thalamus
+177	H376.IV.54_AMY	H376.IV.54	21 pcw	M		Intermediate prenatal	AMY	amygdaloid complex
+178	H376.IV.54_STC	H376.IV.54	21 pcw	M		Intermediate prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+179	H376.IV.54_MFC	H376.IV.54	21 pcw	M		Intermediate prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+180	H376.IV.54_DFC	H376.IV.54	21 pcw	M		Intermediate prenatal	DFC	dorsolateral prefrontal cortex
+181	H376.IV.54_OFC	H376.IV.54	21 pcw	M		Intermediate prenatal	OFC	orbital frontal cortex
+182	H376.IV.54_ITC	H376.IV.54	21 pcw	M		Intermediate prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+183	H376.IV.54_HIP	H376.IV.54	21 pcw	M		Intermediate prenatal	HIP	hippocampus (hippocampal formation)
+184	H376.IV.54_VFC	H376.IV.54	21 pcw	M		Intermediate prenatal	VFC	ventrolateral prefrontal cortex
+185	H376.IV.54_A1C	H376.IV.54	21 pcw	M	Yes	Intermediate prenatal	A1C	primary auditory cortex (core)
+186	H376.IV.54_V1C	H376.IV.54	21 pcw	M		Intermediate prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+187	H376.IV.54_STR	H376.IV.54	21 pcw	M		Intermediate prenatal	STR	striatum
+188	H376.IV.54_M1C	H376.IV.54	21 pcw	M		Intermediate prenatal	M1C	primary motor cortex (area M1, area 4)
+189	H376.IV.54_IPC	H376.IV.54	21 pcw	M		Intermediate prenatal	IPC	posteroventral (inferior) parietal cortex
+190	H376.IV.54_S1C	H376.IV.54	21 pcw	M		Intermediate prenatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+191	H376.IV.54_CBC	H376.IV.54	21 pcw	M		Intermediate prenatal	CBC	cerebellar cortex
+192	H376.IV.54_MD	H376.IV.54	21 pcw	M	Yes	Intermediate prenatal	MD	mediodorsal nucleus of thalamus
+193	H376.IV.50_AMY	H376.IV.50	24 pcw	M		Intermediate prenatal	AMY	amygdaloid complex
+194	H376.IV.50_STC	H376.IV.50	24 pcw	M		Intermediate prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+195	H376.IV.50_MFC	H376.IV.50	24 pcw	M		Intermediate prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+196	H376.IV.50_DFC	H376.IV.50	24 pcw	M		Intermediate prenatal	DFC	dorsolateral prefrontal cortex
+197	H376.IV.50_OFC	H376.IV.50	24 pcw	M		Intermediate prenatal	OFC	orbital frontal cortex
+198	H376.IV.50_ITC	H376.IV.50	24 pcw	M		Intermediate prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+199	H376.IV.50_HIP	H376.IV.50	24 pcw	M		Intermediate prenatal	HIP	hippocampus (hippocampal formation)
+200	H376.IV.50_VFC	H376.IV.50	24 pcw	M		Intermediate prenatal	VFC	ventrolateral prefrontal cortex
+201	H376.IV.50_A1C	H376.IV.50	24 pcw	M		Intermediate prenatal	A1C	primary auditory cortex (core)
+202	H376.IV.50_V1C	H376.IV.50	24 pcw	M		Intermediate prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+203	H376.IV.50_STR	H376.IV.50	24 pcw	M		Intermediate prenatal	STR	striatum
+204	H376.IV.50_M1C	H376.IV.50	24 pcw	M		Intermediate prenatal	M1C	primary motor cortex (area M1, area 4)
+205	H376.IV.50_IPC	H376.IV.50	24 pcw	M		Intermediate prenatal	IPC	posteroventral (inferior) parietal cortex
+206	H376.IV.50_S1C	H376.IV.50	24 pcw	M		Intermediate prenatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+207	H376.IV.50_CBC	H376.IV.50	24 pcw	M		Intermediate prenatal	CBC	cerebellar cortex
+208	H376.IV.50_MD	H376.IV.50	24 pcw	M		Intermediate prenatal	MD	mediodorsal nucleus of thalamus
+209	H376.V.53_AMY	H376.V.53	37 pcw	M		Late prenatal	AMY	amygdaloid complex
+210	H376.V.53_STC	H376.V.53	37 pcw	M		Late prenatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+211	H376.V.53_MFC	H376.V.53	37 pcw	M		Late prenatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+212	H376.V.53_DFC	H376.V.53	37 pcw	M		Late prenatal	DFC	dorsolateral prefrontal cortex
+213	H376.V.53_OFC	H376.V.53	37 pcw	M		Late prenatal	OFC	orbital frontal cortex
+214	H376.V.53_ITC	H376.V.53	37 pcw	M		Late prenatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+215	H376.V.53_HIP	H376.V.53	37 pcw	M		Late prenatal	HIP	hippocampus (hippocampal formation)
+216	H376.V.53_VFC	H376.V.53	37 pcw	M		Late prenatal	VFC	ventrolateral prefrontal cortex
+217	H376.V.53_A1C	H376.V.53	37 pcw	M		Late prenatal	A1C	primary auditory cortex (core)
+218	H376.V.53_V1C	H376.V.53	37 pcw	M		Late prenatal	V1C	primary visual cortex (striate cortex, area V1/17)
+219	H376.V.53_STR	H376.V.53	37 pcw	M		Late prenatal	STR	striatum
+220	H376.V.53_M1C	H376.V.53	37 pcw	M		Late prenatal	M1C	primary motor cortex (area M1, area 4)
+221	H376.V.53_IPC	H376.V.53	37 pcw	M		Late prenatal	IPC	posteroventral (inferior) parietal cortex
+222	H376.V.53_S1C	H376.V.53	37 pcw	M		Late prenatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+223	H376.V.53_CBC	H376.V.53	37 pcw	M		Late prenatal	CBC	cerebellar cortex
+224	H376.V.53_MD	H376.V.53	37 pcw	M		Late prenatal	MD	mediodorsal nucleus of thalamus
+225	H376.VI.50_AMY	H376.VI.50	4 mos	M		Early postnatal	AMY	amygdaloid complex
+226	H376.VI.50_STC	H376.VI.50	4 mos	M		Early postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+227	H376.VI.50_MFC	H376.VI.50	4 mos	M		Early postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+228	H376.VI.50_DFC	H376.VI.50	4 mos	M	Yes	Early postnatal	DFC	dorsolateral prefrontal cortex
+229	H376.VI.50_OFC	H376.VI.50	4 mos	M	Yes	Early postnatal	OFC	orbital frontal cortex
+230	H376.VI.50_ITC	H376.VI.50	4 mos	M		Early postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+231	H376.VI.50_HIP	H376.VI.50	4 mos	M		Early postnatal	HIP	hippocampus (hippocampal formation)
+232	H376.VI.50_VFC	H376.VI.50	4 mos	M	Yes	Early postnatal	VFC	ventrolateral prefrontal cortex
+233	H376.VI.50_A1C	H376.VI.50	4 mos	M	Yes	Early postnatal	A1C	primary auditory cortex (core)
+234	H376.VI.50_V1C	H376.VI.50	4 mos	M		Early postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+235	H376.VI.50_STR	H376.VI.50	4 mos	M		Early postnatal	STR	striatum
+236	H376.VI.50_M1C	H376.VI.50	4 mos	M	Yes	Early postnatal	M1C	primary motor cortex (area M1, area 4)
+237	H376.VI.50_IPC	H376.VI.50	4 mos	M	Yes	Early postnatal	IPC	posteroventral (inferior) parietal cortex
+238	H376.VI.50_S1C	H376.VI.50	4 mos	M	Yes	Early postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,3)
+239	H376.VI.50_CBC	H376.VI.50	4 mos	M		Early postnatal	CBC	cerebellar cortex
+240	H376.VI.50_MD	H376.VI.50	4 mos	M		Early postnatal	MD	mediodorsal nucleus of thalamus
+241	H376.VI.51_AMY	H376.VI.51	4 mos	M		Early postnatal	AMY	amygdaloid complex
+242	H376.VI.51_STC	H376.VI.51	4 mos	M		Early postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+243	H376.VI.51_MFC	H376.VI.51	4 mos	M	Yes	Early postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+244	H376.VI.51_DFC	H376.VI.51	4 mos	M		Early postnatal	DFC	dorsolateral prefrontal cortex
+245	H376.VI.51_OFC	H376.VI.51	4 mos	M		Early postnatal	OFC	orbital frontal cortex
+246	H376.VI.51_ITC	H376.VI.51	4 mos	M		Early postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+247	H376.VI.51_HIP	H376.VI.51	4 mos	M	Yes	Early postnatal	HIP	hippocampus (hippocampal formation)
+248	H376.VI.51_VFC	H376.VI.51	4 mos	M		Early postnatal	VFC	ventrolateral prefrontal cortex
+249	H376.VI.51_A1C	H376.VI.51	4 mos	M		Early postnatal	A1C	primary auditory cortex (core)
+250	H376.VI.51_V1C	H376.VI.51	4 mos	M	Yes	Early postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+251	H376.VI.51_STR	H376.VI.51	4 mos	M	Yes	Early postnatal	STR	striatum
+252	H376.VI.51_M1C	H376.VI.51	4 mos	M		Early postnatal	M1C	primary motor cortex (area M1, area 4)
+253	H376.VI.51_IPC	H376.VI.51	4 mos	M	Yes	Early postnatal	IPC	posteroventral (inferior) parietal cortex
+254	H376.VI.51_S1C	H376.VI.51	4 mos	M	Yes	Early postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,4)
+255	H376.VI.51_CBC	H376.VI.51	4 mos	M	Yes	Early postnatal	CBC	cerebellar cortex
+256	H376.VI.51_MD	H376.VI.51	4 mos	M	Yes	Early postnatal	MD	mediodorsal nucleus of thalamus
+257	H376.VI.52_AMY	H376.VI.52	4 mos	M		Early postnatal	AMY	amygdaloid complex
+258	H376.VI.52_STC	H376.VI.52	4 mos	M		Early postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+259	H376.VI.52_MFC	H376.VI.52	4 mos	M		Early postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+260	H376.VI.52_DFC	H376.VI.52	4 mos	M		Early postnatal	DFC	dorsolateral prefrontal cortex
+261	H376.VI.52_OFC	H376.VI.52	4 mos	M		Early postnatal	OFC	orbital frontal cortex
+262	H376.VI.52_ITC	H376.VI.52	4 mos	M		Early postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+263	H376.VI.52_HIP	H376.VI.52	4 mos	M		Early postnatal	HIP	hippocampus (hippocampal formation)
+264	H376.VI.52_VFC	H376.VI.52	4 mos	M		Early postnatal	VFC	ventrolateral prefrontal cortex
+265	H376.VI.52_A1C	H376.VI.52	4 mos	M		Early postnatal	A1C	primary auditory cortex (core)
+266	H376.VI.52_V1C	H376.VI.52	4 mos	M		Early postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+267	H376.VI.52_STR	H376.VI.52	4 mos	M		Early postnatal	STR	striatum
+268	H376.VI.52_M1C	H376.VI.52	4 mos	M		Early postnatal	M1C	primary motor cortex (area M1, area 4)
+269	H376.VI.52_IPC	H376.VI.52	4 mos	M		Early postnatal	IPC	posteroventral (inferior) parietal cortex
+270	H376.VI.52_S1C	H376.VI.52	4 mos	M		Early postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,5)
+271	H376.VI.52_CBC	H376.VI.52	4 mos	M		Early postnatal	CBC	cerebellar cortex
+272	H376.VI.52_MD	H376.VI.52	4 mos	M		Early postnatal	MD	mediodorsal nucleus of thalamus
+273	H376.VII.51_AMY	H376.VII.51	10 mos	M	Yes	Early postnatal	AMY	amygdaloid complex
+274	H376.VII.51_STC	H376.VII.51	10 mos	M		Early postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+275	H376.VII.51_MFC	H376.VII.51	10 mos	M		Early postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+276	H376.VII.51_DFC	H376.VII.51	10 mos	M		Early postnatal	DFC	dorsolateral prefrontal cortex
+277	H376.VII.51_OFC	H376.VII.51	10 mos	M		Early postnatal	OFC	orbital frontal cortex
+278	H376.VII.51_ITC	H376.VII.51	10 mos	M		Early postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+279	H376.VII.51_HIP	H376.VII.51	10 mos	M	Yes	Early postnatal	HIP	hippocampus (hippocampal formation)
+280	H376.VII.51_VFC	H376.VII.51	10 mos	M	Yes	Early postnatal	VFC	ventrolateral prefrontal cortex
+281	H376.VII.51_A1C	H376.VII.51	10 mos	M	Yes	Early postnatal	A1C	primary auditory cortex (core)
+282	H376.VII.51_V1C	H376.VII.51	10 mos	M		Early postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+283	H376.VII.51_STR	H376.VII.51	10 mos	M	Yes	Early postnatal	STR	striatum
+284	H376.VII.51_M1C	H376.VII.51	10 mos	M	Yes	Early postnatal	M1C	primary motor cortex (area M1, area 4)
+285	H376.VII.51_IPC	H376.VII.51	10 mos	M		Early postnatal	IPC	posteroventral (inferior) parietal cortex
+286	H376.VII.51_S1C	H376.VII.51	10 mos	M		Early postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,6)
+287	H376.VII.51_CBC	H376.VII.51	10 mos	M		Early postnatal	CBC	cerebellar cortex
+288	H376.VII.51_MD	H376.VII.51	10 mos	M		Early postnatal	MD	mediodorsal nucleus of thalamus
+289	H376.VIII.51_AMY	H376.VIII.51	1 yrs	F		Early postnatal	AMY	amygdaloid complex
+290	H376.VIII.51_STC	H376.VIII.51	1 yrs	F		Early postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+291	H376.VIII.51_MFC	H376.VIII.51	1 yrs	F		Early postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+292	H376.VIII.51_DFC	H376.VIII.51	1 yrs	F		Early postnatal	DFC	dorsolateral prefrontal cortex
+293	H376.VIII.51_OFC	H376.VIII.51	1 yrs	F		Early postnatal	OFC	orbital frontal cortex
+294	H376.VIII.51_ITC	H376.VIII.51	1 yrs	F		Early postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+295	H376.VIII.51_HIP	H376.VIII.51	1 yrs	F		Early postnatal	HIP	hippocampus (hippocampal formation)
+296	H376.VIII.51_VFC	H376.VIII.51	1 yrs	F		Early postnatal	VFC	ventrolateral prefrontal cortex
+297	H376.VIII.51_A1C	H376.VIII.51	1 yrs	F		Early postnatal	A1C	primary auditory cortex (core)
+298	H376.VIII.51_V1C	H376.VIII.51	1 yrs	F		Early postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+299	H376.VIII.51_STR	H376.VIII.51	1 yrs	F		Early postnatal	STR	striatum
+300	H376.VIII.51_M1C	H376.VIII.51	1 yrs	F		Early postnatal	M1C	primary motor cortex (area M1, area 4)
+301	H376.VIII.51_IPC	H376.VIII.51	1 yrs	F		Early postnatal	IPC	posteroventral (inferior) parietal cortex
+302	H376.VIII.51_S1C	H376.VIII.51	1 yrs	F		Early postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,7)
+303	H376.VIII.51_CBC	H376.VIII.51	1 yrs	F		Early postnatal	CBC	cerebellar cortex
+304	H376.VIII.51_MD	H376.VIII.51	1 yrs	F		Early postnatal	MD	mediodorsal nucleus of thalamus
+305	H376.VIII.53_AMY	H376.VIII.53	2 yrs	F	Yes	Early postnatal	AMY	amygdaloid complex
+306	H376.VIII.53_STC	H376.VIII.53	2 yrs	F		Early postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+307	H376.VIII.53_MFC	H376.VIII.53	2 yrs	F		Early postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+308	H376.VIII.53_DFC	H376.VIII.53	2 yrs	F		Early postnatal	DFC	dorsolateral prefrontal cortex
+309	H376.VIII.53_OFC	H376.VIII.53	2 yrs	F		Early postnatal	OFC	orbital frontal cortex
+310	H376.VIII.53_ITC	H376.VIII.53	2 yrs	F		Early postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+311	H376.VIII.53_HIP	H376.VIII.53	2 yrs	F		Early postnatal	HIP	hippocampus (hippocampal formation)
+312	H376.VIII.53_VFC	H376.VIII.53	2 yrs	F		Early postnatal	VFC	ventrolateral prefrontal cortex
+313	H376.VIII.53_A1C	H376.VIII.53	2 yrs	F	Yes	Early postnatal	A1C	primary auditory cortex (core)
+314	H376.VIII.53_V1C	H376.VIII.53	2 yrs	F		Early postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+315	H376.VIII.53_STR	H376.VIII.53	2 yrs	F	Yes	Early postnatal	STR	striatum
+316	H376.VIII.53_M1C	H376.VIII.53	2 yrs	F	Yes	Early postnatal	M1C	primary motor cortex (area M1, area 4)
+317	H376.VIII.53_IPC	H376.VIII.53	2 yrs	F		Early postnatal	IPC	posteroventral (inferior) parietal cortex
+318	H376.VIII.53_S1C	H376.VIII.53	2 yrs	F		Early postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,8)
+319	H376.VIII.53_CBC	H376.VIII.53	2 yrs	F		Early postnatal	CBC	cerebellar cortex
+320	H376.VIII.53_MD	H376.VIII.53	2 yrs	F		Early postnatal	MD	mediodorsal nucleus of thalamus
+321	H376.VIII.52_AMY	H376.VIII.52	3 yrs	F		Early postnatal	AMY	amygdaloid complex
+322	H376.VIII.52_STC	H376.VIII.52	3 yrs	F		Early postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+323	H376.VIII.52_MFC	H376.VIII.52	3 yrs	F	Yes	Early postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+324	H376.VIII.52_DFC	H376.VIII.52	3 yrs	F	Yes	Early postnatal	DFC	dorsolateral prefrontal cortex
+325	H376.VIII.52_OFC	H376.VIII.52	3 yrs	F	Yes	Early postnatal	OFC	orbital frontal cortex
+326	H376.VIII.52_ITC	H376.VIII.52	3 yrs	F		Early postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+327	H376.VIII.52_HIP	H376.VIII.52	3 yrs	F	Yes	Early postnatal	HIP	hippocampus (hippocampal formation)
+328	H376.VIII.52_VFC	H376.VIII.52	3 yrs	F		Early postnatal	VFC	ventrolateral prefrontal cortex
+329	H376.VIII.52_A1C	H376.VIII.52	3 yrs	F		Early postnatal	A1C	primary auditory cortex (core)
+330	H376.VIII.52_V1C	H376.VIII.52	3 yrs	F		Early postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+331	H376.VIII.52_STR	H376.VIII.52	3 yrs	F		Early postnatal	STR	striatum
+332	H376.VIII.52_M1C	H376.VIII.52	3 yrs	F		Early postnatal	M1C	primary motor cortex (area M1, area 4)
+333	H376.VIII.52_IPC	H376.VIII.52	3 yrs	F		Early postnatal	IPC	posteroventral (inferior) parietal cortex
+334	H376.VIII.52_S1C	H376.VIII.52	3 yrs	F	Yes	Early postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,9)
+335	H376.VIII.52_CBC	H376.VIII.52	3 yrs	F		Early postnatal	CBC	cerebellar cortex
+336	H376.VIII.52_MD	H376.VIII.52	3 yrs	F		Early postnatal	MD	mediodorsal nucleus of thalamus
+337	H376.VIII.54_AMY	H376.VIII.54	3 yrs	M		Early postnatal	AMY	amygdaloid complex
+338	H376.VIII.54_STC	H376.VIII.54	3 yrs	M		Early postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+339	H376.VIII.54_MFC	H376.VIII.54	3 yrs	M		Early postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+340	H376.VIII.54_DFC	H376.VIII.54	3 yrs	M		Early postnatal	DFC	dorsolateral prefrontal cortex
+341	H376.VIII.54_OFC	H376.VIII.54	3 yrs	M		Early postnatal	OFC	orbital frontal cortex
+342	H376.VIII.54_ITC	H376.VIII.54	3 yrs	M		Early postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+343	H376.VIII.54_HIP	H376.VIII.54	3 yrs	M		Early postnatal	HIP	hippocampus (hippocampal formation)
+344	H376.VIII.54_VFC	H376.VIII.54	3 yrs	M		Early postnatal	VFC	ventrolateral prefrontal cortex
+345	H376.VIII.54_A1C	H376.VIII.54	3 yrs	M		Early postnatal	A1C	primary auditory cortex (core)
+346	H376.VIII.54_V1C	H376.VIII.54	3 yrs	M		Early postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+347	H376.VIII.54_STR	H376.VIII.54	3 yrs	M	Yes	Early postnatal	STR	striatum
+348	H376.VIII.54_M1C	H376.VIII.54	3 yrs	M		Early postnatal	M1C	primary motor cortex (area M1, area 4)
+349	H376.VIII.54_IPC	H376.VIII.54	3 yrs	M		Early postnatal	IPC	posteroventral (inferior) parietal cortex
+350	H376.VIII.54_S1C	H376.VIII.54	3 yrs	M		Early postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,10)
+351	H376.VIII.54_CBC	H376.VIII.54	3 yrs	M		Early postnatal	CBC	cerebellar cortex
+352	H376.VIII.54_MD	H376.VIII.54	3 yrs	M	Yes	Early postnatal	MD	mediodorsal nucleus of thalamus
+353	H376.VIII.50_AMY	H376.VIII.50	4 yrs	M		Early postnatal	AMY	amygdaloid complex
+354	H376.VIII.50_STC	H376.VIII.50	4 yrs	M		Early postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+355	H376.VIII.50_MFC	H376.VIII.50	4 yrs	M	Yes	Early postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+356	H376.VIII.50_DFC	H376.VIII.50	4 yrs	M		Early postnatal	DFC	dorsolateral prefrontal cortex
+357	H376.VIII.50_OFC	H376.VIII.50	4 yrs	M	Yes	Early postnatal	OFC	orbital frontal cortex
+358	H376.VIII.50_ITC	H376.VIII.50	4 yrs	M	Yes	Early postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+359	H376.VIII.50_HIP	H376.VIII.50	4 yrs	M	Yes	Early postnatal	HIP	hippocampus (hippocampal formation)
+360	H376.VIII.50_VFC	H376.VIII.50	4 yrs	M		Early postnatal	VFC	ventrolateral prefrontal cortex
+361	H376.VIII.50_A1C	H376.VIII.50	4 yrs	M	Yes	Early postnatal	A1C	primary auditory cortex (core)
+362	H376.VIII.50_V1C	H376.VIII.50	4 yrs	M	Yes	Early postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+363	H376.VIII.50_STR	H376.VIII.50	4 yrs	M		Early postnatal	STR	striatum
+364	H376.VIII.50_M1C	H376.VIII.50	4 yrs	M	Yes	Early postnatal	M1C	primary motor cortex (area M1, area 4)
+365	H376.VIII.50_IPC	H376.VIII.50	4 yrs	M	Yes	Early postnatal	IPC	posteroventral (inferior) parietal cortex
+366	H376.VIII.50_S1C	H376.VIII.50	4 yrs	M	Yes	Early postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,11)
+367	H376.VIII.50_CBC	H376.VIII.50	4 yrs	M		Early postnatal	CBC	cerebellar cortex
+368	H376.VIII.50_MD	H376.VIII.50	4 yrs	M		Early postnatal	MD	mediodorsal nucleus of thalamus
+369	H376.IX.51_AMY	H376.IX.51	8 yrs	M		Intermediate postnatal	AMY	amygdaloid complex
+370	H376.IX.51_STC	H376.IX.51	8 yrs	M		Intermediate postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+371	H376.IX.51_MFC	H376.IX.51	8 yrs	M		Intermediate postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+372	H376.IX.51_DFC	H376.IX.51	8 yrs	M		Intermediate postnatal	DFC	dorsolateral prefrontal cortex
+373	H376.IX.51_OFC	H376.IX.51	8 yrs	M		Intermediate postnatal	OFC	orbital frontal cortex
+374	H376.IX.51_ITC	H376.IX.51	8 yrs	M		Intermediate postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+375	H376.IX.51_HIP	H376.IX.51	8 yrs	M		Intermediate postnatal	HIP	hippocampus (hippocampal formation)
+376	H376.IX.51_VFC	H376.IX.51	8 yrs	M		Intermediate postnatal	VFC	ventrolateral prefrontal cortex
+377	H376.IX.51_A1C	H376.IX.51	8 yrs	M		Intermediate postnatal	A1C	primary auditory cortex (core)
+378	H376.IX.51_V1C	H376.IX.51	8 yrs	M		Intermediate postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+379	H376.IX.51_STR	H376.IX.51	8 yrs	M		Intermediate postnatal	STR	striatum
+380	H376.IX.51_M1C	H376.IX.51	8 yrs	M		Intermediate postnatal	M1C	primary motor cortex (area M1, area 4)
+381	H376.IX.51_IPC	H376.IX.51	8 yrs	M		Intermediate postnatal	IPC	posteroventral (inferior) parietal cortex
+382	H376.IX.51_S1C	H376.IX.51	8 yrs	M		Intermediate postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,12)
+383	H376.IX.51_CBC	H376.IX.51	8 yrs	M		Intermediate postnatal	CBC	cerebellar cortex
+384	H376.IX.51_MD	H376.IX.51	8 yrs	M		Intermediate postnatal	MD	mediodorsal nucleus of thalamus
+385	H376.IX.52_AMY	H376.IX.52	8 yrs	M		Intermediate postnatal	AMY	amygdaloid complex
+386	H376.IX.52_STC	H376.IX.52	8 yrs	M		Intermediate postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+387	H376.IX.52_MFC	H376.IX.52	8 yrs	M		Intermediate postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+388	H376.IX.52_DFC	H376.IX.52	8 yrs	M		Intermediate postnatal	DFC	dorsolateral prefrontal cortex
+389	H376.IX.52_OFC	H376.IX.52	8 yrs	M	Yes	Intermediate postnatal	OFC	orbital frontal cortex
+390	H376.IX.52_ITC	H376.IX.52	8 yrs	M		Intermediate postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+391	H376.IX.52_HIP	H376.IX.52	8 yrs	M		Intermediate postnatal	HIP	hippocampus (hippocampal formation)
+392	H376.IX.52_VFC	H376.IX.52	8 yrs	M		Intermediate postnatal	VFC	ventrolateral prefrontal cortex
+393	H376.IX.52_A1C	H376.IX.52	8 yrs	M		Intermediate postnatal	A1C	primary auditory cortex (core)
+394	H376.IX.52_V1C	H376.IX.52	8 yrs	M		Intermediate postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+395	H376.IX.52_STR	H376.IX.52	8 yrs	M	Yes	Intermediate postnatal	STR	striatum
+396	H376.IX.52_M1C	H376.IX.52	8 yrs	M	Yes	Intermediate postnatal	M1C	primary motor cortex (area M1, area 4)
+397	H376.IX.52_IPC	H376.IX.52	8 yrs	M		Intermediate postnatal	IPC	posteroventral (inferior) parietal cortex
+398	H376.IX.52_S1C	H376.IX.52	8 yrs	M	Yes	Intermediate postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,13)
+399	H376.IX.52_CBC	H376.IX.52	8 yrs	M		Intermediate postnatal	CBC	cerebellar cortex
+400	H376.IX.52_MD	H376.IX.52	8 yrs	M	Yes	Intermediate postnatal	MD	mediodorsal nucleus of thalamus
+401	H376.IX.50_AMY	H376.IX.50	11 yrs	F		Intermediate postnatal	AMY	amygdaloid complex
+402	H376.IX.50_STC	H376.IX.50	11 yrs	F		Intermediate postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+403	H376.IX.50_MFC	H376.IX.50	11 yrs	F		Intermediate postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+404	H376.IX.50_DFC	H376.IX.50	11 yrs	F		Intermediate postnatal	DFC	dorsolateral prefrontal cortex
+405	H376.IX.50_OFC	H376.IX.50	11 yrs	F		Intermediate postnatal	OFC	orbital frontal cortex
+406	H376.IX.50_ITC	H376.IX.50	11 yrs	F		Intermediate postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+407	H376.IX.50_HIP	H376.IX.50	11 yrs	F		Intermediate postnatal	HIP	hippocampus (hippocampal formation)
+408	H376.IX.50_VFC	H376.IX.50	11 yrs	F		Intermediate postnatal	VFC	ventrolateral prefrontal cortex
+409	H376.IX.50_A1C	H376.IX.50	11 yrs	F		Intermediate postnatal	A1C	primary auditory cortex (core)
+410	H376.IX.50_V1C	H376.IX.50	11 yrs	F		Intermediate postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+411	H376.IX.50_STR	H376.IX.50	11 yrs	F	Yes	Intermediate postnatal	STR	striatum
+412	H376.IX.50_M1C	H376.IX.50	11 yrs	F		Intermediate postnatal	M1C	primary motor cortex (area M1, area 4)
+413	H376.IX.50_IPC	H376.IX.50	11 yrs	F		Intermediate postnatal	IPC	posteroventral (inferior) parietal cortex
+414	H376.IX.50_S1C	H376.IX.50	11 yrs	F		Intermediate postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,14)
+415	H376.IX.50_CBC	H376.IX.50	11 yrs	F		Intermediate postnatal	CBC	cerebellar cortex
+416	H376.IX.50_MD	H376.IX.50	11 yrs	F	Yes	Intermediate postnatal	MD	mediodorsal nucleus of thalamus
+417	H376.X.51_AMY	H376.X.51	13 yrs	F		Intermediate postnatal	AMY	amygdaloid complex
+418	H376.X.51_STC	H376.X.51	13 yrs	F		Intermediate postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+419	H376.X.51_MFC	H376.X.51	13 yrs	F		Intermediate postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+420	H376.X.51_DFC	H376.X.51	13 yrs	F		Intermediate postnatal	DFC	dorsolateral prefrontal cortex
+421	H376.X.51_OFC	H376.X.51	13 yrs	F		Intermediate postnatal	OFC	orbital frontal cortex
+422	H376.X.51_ITC	H376.X.51	13 yrs	F		Intermediate postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+423	H376.X.51_HIP	H376.X.51	13 yrs	F		Intermediate postnatal	HIP	hippocampus (hippocampal formation)
+424	H376.X.51_VFC	H376.X.51	13 yrs	F		Intermediate postnatal	VFC	ventrolateral prefrontal cortex
+425	H376.X.51_A1C	H376.X.51	13 yrs	F		Intermediate postnatal	A1C	primary auditory cortex (core)
+426	H376.X.51_V1C	H376.X.51	13 yrs	F		Intermediate postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+427	H376.X.51_STR	H376.X.51	13 yrs	F		Intermediate postnatal	STR	striatum
+428	H376.X.51_M1C	H376.X.51	13 yrs	F		Intermediate postnatal	M1C	primary motor cortex (area M1, area 4)
+429	H376.X.51_IPC	H376.X.51	13 yrs	F		Intermediate postnatal	IPC	posteroventral (inferior) parietal cortex
+430	H376.X.51_S1C	H376.X.51	13 yrs	F		Intermediate postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,15)
+431	H376.X.51_CBC	H376.X.51	13 yrs	F		Intermediate postnatal	CBC	cerebellar cortex
+432	H376.X.51_MD	H376.X.51	13 yrs	F		Intermediate postnatal	MD	mediodorsal nucleus of thalamus
+433	H376.X.53_AMY	H376.X.53	18 yrs	M	Yes	Late postnatal	AMY	amygdaloid complex
+434	H376.X.53_STC	H376.X.53	18 yrs	M		Late postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+435	H376.X.53_MFC	H376.X.53	18 yrs	M		Late postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+436	H376.X.53_DFC	H376.X.53	18 yrs	M		Late postnatal	DFC	dorsolateral prefrontal cortex
+437	H376.X.53_OFC	H376.X.53	18 yrs	M		Late postnatal	OFC	orbital frontal cortex
+438	H376.X.53_ITC	H376.X.53	18 yrs	M		Late postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+439	H376.X.53_HIP	H376.X.53	18 yrs	M		Late postnatal	HIP	hippocampus (hippocampal formation)
+440	H376.X.53_VFC	H376.X.53	18 yrs	M		Late postnatal	VFC	ventrolateral prefrontal cortex
+441	H376.X.53_A1C	H376.X.53	18 yrs	M		Late postnatal	A1C	primary auditory cortex (core)
+442	H376.X.53_V1C	H376.X.53	18 yrs	M		Late postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+443	H376.X.53_STR	H376.X.53	18 yrs	M	Yes	Late postnatal	STR	striatum
+444	H376.X.53_M1C	H376.X.53	18 yrs	M		Late postnatal	M1C	primary motor cortex (area M1, area 4)
+445	H376.X.53_IPC	H376.X.53	18 yrs	M		Late postnatal	IPC	posteroventral (inferior) parietal cortex
+446	H376.X.53_S1C	H376.X.53	18 yrs	M		Late postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,16)
+447	H376.X.53_CBC	H376.X.53	18 yrs	M		Late postnatal	CBC	cerebellar cortex
+448	H376.X.53_MD	H376.X.53	18 yrs	M	Yes	Late postnatal	MD	mediodorsal nucleus of thalamus
+449	H376.X.52_AMY	H376.X.52	19 yrs	F		Late postnatal	AMY	amygdaloid complex
+450	H376.X.52_STC	H376.X.52	19 yrs	F		Late postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+451	H376.X.52_MFC	H376.X.52	19 yrs	F		Late postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+452	H376.X.52_DFC	H376.X.52	19 yrs	F		Late postnatal	DFC	dorsolateral prefrontal cortex
+453	H376.X.52_OFC	H376.X.52	19 yrs	F		Late postnatal	OFC	orbital frontal cortex
+454	H376.X.52_ITC	H376.X.52	19 yrs	F		Late postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+455	H376.X.52_HIP	H376.X.52	19 yrs	F		Late postnatal	HIP	hippocampus (hippocampal formation)
+456	H376.X.52_VFC	H376.X.52	19 yrs	F		Late postnatal	VFC	ventrolateral prefrontal cortex
+457	H376.X.52_A1C	H376.X.52	19 yrs	F		Late postnatal	A1C	primary auditory cortex (core)
+458	H376.X.52_V1C	H376.X.52	19 yrs	F		Late postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+459	H376.X.52_STR	H376.X.52	19 yrs	F		Late postnatal	STR	striatum
+460	H376.X.52_M1C	H376.X.52	19 yrs	F		Late postnatal	M1C	primary motor cortex (area M1, area 4)
+461	H376.X.52_IPC	H376.X.52	19 yrs	F		Late postnatal	IPC	posteroventral (inferior) parietal cortex
+462	H376.X.52_S1C	H376.X.52	19 yrs	F		Late postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,17)
+463	H376.X.52_CBC	H376.X.52	19 yrs	F		Late postnatal	CBC	cerebellar cortex
+464	H376.X.52_MD	H376.X.52	19 yrs	F		Late postnatal	MD	mediodorsal nucleus of thalamus
+465	H376.XI.60_AMY	H376.XI.60	21 yrs	F		Late postnatal	AMY	amygdaloid complex
+466	H376.XI.60_STC	H376.XI.60	21 yrs	F		Late postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+467	H376.XI.60_MFC	H376.XI.60	21 yrs	F		Late postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+468	H376.XI.60_DFC	H376.XI.60	21 yrs	F		Late postnatal	DFC	dorsolateral prefrontal cortex
+469	H376.XI.60_OFC	H376.XI.60	21 yrs	F		Late postnatal	OFC	orbital frontal cortex
+470	H376.XI.60_ITC	H376.XI.60	21 yrs	F		Late postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+471	H376.XI.60_HIP	H376.XI.60	21 yrs	F		Late postnatal	HIP	hippocampus (hippocampal formation)
+472	H376.XI.60_VFC	H376.XI.60	21 yrs	F		Late postnatal	VFC	ventrolateral prefrontal cortex
+473	H376.XI.60_A1C	H376.XI.60	21 yrs	F		Late postnatal	A1C	primary auditory cortex (core)
+474	H376.XI.60_V1C	H376.XI.60	21 yrs	F		Late postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+475	H376.XI.60_STR	H376.XI.60	21 yrs	F		Late postnatal	STR	striatum
+476	H376.XI.60_M1C	H376.XI.60	21 yrs	F		Late postnatal	M1C	primary motor cortex (area M1, area 4)
+477	H376.XI.60_IPC	H376.XI.60	21 yrs	F		Late postnatal	IPC	posteroventral (inferior) parietal cortex
+478	H376.XI.60_S1C	H376.XI.60	21 yrs	F		Late postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,18)
+479	H376.XI.60_CBC	H376.XI.60	21 yrs	F		Late postnatal	CBC	cerebellar cortex
+480	H376.XI.60_MD	H376.XI.60	21 yrs	F		Late postnatal	MD	mediodorsal nucleus of thalamus
+481	H376.XI.50_AMY	H376.XI.50	23 yrs	M		Late postnatal	AMY	amygdaloid complex
+482	H376.XI.50_STC	H376.XI.50	23 yrs	M		Late postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+483	H376.XI.50_MFC	H376.XI.50	23 yrs	M		Late postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+484	H376.XI.50_DFC	H376.XI.50	23 yrs	M	Yes	Late postnatal	DFC	dorsolateral prefrontal cortex
+485	H376.XI.50_OFC	H376.XI.50	23 yrs	M		Late postnatal	OFC	orbital frontal cortex
+486	H376.XI.50_ITC	H376.XI.50	23 yrs	M		Late postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+487	H376.XI.50_HIP	H376.XI.50	23 yrs	M		Late postnatal	HIP	hippocampus (hippocampal formation)
+488	H376.XI.50_VFC	H376.XI.50	23 yrs	M		Late postnatal	VFC	ventrolateral prefrontal cortex
+489	H376.XI.50_A1C	H376.XI.50	23 yrs	M		Late postnatal	A1C	primary auditory cortex (core)
+490	H376.XI.50_V1C	H376.XI.50	23 yrs	M	Yes	Late postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+491	H376.XI.50_STR	H376.XI.50	23 yrs	M		Late postnatal	STR	striatum
+492	H376.XI.50_M1C	H376.XI.50	23 yrs	M		Late postnatal	M1C	primary motor cortex (area M1, area 4)
+493	H376.XI.50_IPC	H376.XI.50	23 yrs	M		Late postnatal	IPC	posteroventral (inferior) parietal cortex
+494	H376.XI.50_S1C	H376.XI.50	23 yrs	M		Late postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,19)
+495	H376.XI.50_CBC	H376.XI.50	23 yrs	M		Late postnatal	CBC	cerebellar cortex
+496	H376.XI.50_MD	H376.XI.50	23 yrs	M		Late postnatal	MD	mediodorsal nucleus of thalamus
+497	H376.XI.52_AMY	H376.XI.52	30 yrs	F		Late postnatal	AMY	amygdaloid complex
+498	H376.XI.52_STC	H376.XI.52	30 yrs	F		Late postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+499	H376.XI.52_MFC	H376.XI.52	30 yrs	F		Late postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+500	H376.XI.52_DFC	H376.XI.52	30 yrs	F		Late postnatal	DFC	dorsolateral prefrontal cortex
+501	H376.XI.52_OFC	H376.XI.52	30 yrs	F		Late postnatal	OFC	orbital frontal cortex
+502	H376.XI.52_ITC	H376.XI.52	30 yrs	F		Late postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+503	H376.XI.52_HIP	H376.XI.52	30 yrs	F		Late postnatal	HIP	hippocampus (hippocampal formation)
+504	H376.XI.52_VFC	H376.XI.52	30 yrs	F		Late postnatal	VFC	ventrolateral prefrontal cortex
+505	H376.XI.52_A1C	H376.XI.52	30 yrs	F		Late postnatal	A1C	primary auditory cortex (core)
+506	H376.XI.52_V1C	H376.XI.52	30 yrs	F		Late postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+507	H376.XI.52_STR	H376.XI.52	30 yrs	F		Late postnatal	STR	striatum
+508	H376.XI.52_M1C	H376.XI.52	30 yrs	F		Late postnatal	M1C	primary motor cortex (area M1, area 4)
+509	H376.XI.52_IPC	H376.XI.52	30 yrs	F		Late postnatal	IPC	posteroventral (inferior) parietal cortex
+510	H376.XI.52_S1C	H376.XI.52	30 yrs	F		Late postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,20)
+511	H376.XI.52_CBC	H376.XI.52	30 yrs	F		Late postnatal	CBC	cerebellar cortex
+512	H376.XI.52_MD	H376.XI.52	30 yrs	F		Late postnatal	MD	mediodorsal nucleus of thalamus
+513	H376.XI.53_AMY	H376.XI.53	36 yrs	M		Late postnatal	AMY	amygdaloid complex
+514	H376.XI.53_STC	H376.XI.53	36 yrs	M		Late postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+515	H376.XI.53_MFC	H376.XI.53	36 yrs	M		Late postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+516	H376.XI.53_DFC	H376.XI.53	36 yrs	M		Late postnatal	DFC	dorsolateral prefrontal cortex
+517	H376.XI.53_OFC	H376.XI.53	36 yrs	M		Late postnatal	OFC	orbital frontal cortex
+518	H376.XI.53_ITC	H376.XI.53	36 yrs	M		Late postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+519	H376.XI.53_HIP	H376.XI.53	36 yrs	M		Late postnatal	HIP	hippocampus (hippocampal formation)
+520	H376.XI.53_VFC	H376.XI.53	36 yrs	M		Late postnatal	VFC	ventrolateral prefrontal cortex
+521	H376.XI.53_A1C	H376.XI.53	36 yrs	M		Late postnatal	A1C	primary auditory cortex (core)
+522	H376.XI.53_V1C	H376.XI.53	36 yrs	M		Late postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+523	H376.XI.53_STR	H376.XI.53	36 yrs	M		Late postnatal	STR	striatum
+524	H376.XI.53_M1C	H376.XI.53	36 yrs	M		Late postnatal	M1C	primary motor cortex (area M1, area 4)
+525	H376.XI.53_IPC	H376.XI.53	36 yrs	M		Late postnatal	IPC	posteroventral (inferior) parietal cortex
+526	H376.XI.53_S1C	H376.XI.53	36 yrs	M		Late postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,21)
+527	H376.XI.53_CBC	H376.XI.53	36 yrs	M		Late postnatal	CBC	cerebellar cortex
+528	H376.XI.53_MD	H376.XI.53	36 yrs	M		Late postnatal	MD	mediodorsal nucleus of thalamus
+529	H376.XI.54_AMY	H376.XI.54	37 yrs	M		Late postnatal	AMY	amygdaloid complex
+530	H376.XI.54_STC	H376.XI.54	37 yrs	M		Late postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+531	H376.XI.54_MFC	H376.XI.54	37 yrs	M		Late postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+532	H376.XI.54_DFC	H376.XI.54	37 yrs	M		Late postnatal	DFC	dorsolateral prefrontal cortex
+533	H376.XI.54_OFC	H376.XI.54	37 yrs	M		Late postnatal	OFC	orbital frontal cortex
+534	H376.XI.54_ITC	H376.XI.54	37 yrs	M		Late postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+535	H376.XI.54_HIP	H376.XI.54	37 yrs	M		Late postnatal	HIP	hippocampus (hippocampal formation)
+536	H376.XI.54_VFC	H376.XI.54	37 yrs	M		Late postnatal	VFC	ventrolateral prefrontal cortex
+537	H376.XI.54_A1C	H376.XI.54	37 yrs	M		Late postnatal	A1C	primary auditory cortex (core)
+538	H376.XI.54_V1C	H376.XI.54	37 yrs	M		Late postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+539	H376.XI.54_STR	H376.XI.54	37 yrs	M		Late postnatal	STR	striatum
+540	H376.XI.54_M1C	H376.XI.54	37 yrs	M		Late postnatal	M1C	primary motor cortex (area M1, area 4)
+541	H376.XI.54_IPC	H376.XI.54	37 yrs	M		Late postnatal	IPC	posteroventral (inferior) parietal cortex
+542	H376.XI.54_S1C	H376.XI.54	37 yrs	M		Late postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+543	H376.XI.54_CBC	H376.XI.54	37 yrs	M		Late postnatal	CBC	cerebellar cortex
+544	H376.XI.54_MD	H376.XI.54	37 yrs	M		Late postnatal	MD	mediodorsal nucleus of thalamus
+545	H376.XI.56_AMY	H376.XI.56	40 yrs	F		Late postnatal	AMY	amygdaloid complex
+546	H376.XI.56_STC	H376.XI.56	40 yrs	F		Late postnatal	STC	posterior (caudal) superior temporal cortex (area 22c)
+547	H376.XI.56_MFC	H376.XI.56	40 yrs	F	Yes	Late postnatal	MFC	anterior (rostral) cingulate (medial prefrontal) cortex
+548	H376.XI.56_DFC	H376.XI.56	40 yrs	F		Late postnatal	DFC	dorsolateral prefrontal cortex
+549	H376.XI.56_OFC	H376.XI.56	40 yrs	F		Late postnatal	OFC	orbital frontal cortex
+550	H376.XI.56_ITC	H376.XI.56	40 yrs	F		Late postnatal	ITC	inferolateral temporal cortex (area TEv, area 20)
+551	H376.XI.56_HIP	H376.XI.56	40 yrs	F		Late postnatal	HIP	hippocampus (hippocampal formation)
+552	H376.XI.56_VFC	H376.XI.56	40 yrs	F		Late postnatal	VFC	ventrolateral prefrontal cortex
+553	H376.XI.56_A1C	H376.XI.56	40 yrs	F		Late postnatal	A1C	primary auditory cortex (core)
+554	H376.XI.56_V1C	H376.XI.56	40 yrs	F		Late postnatal	V1C	primary visual cortex (striate cortex, area V1/17)
+555	H376.XI.56_STR	H376.XI.56	40 yrs	F		Late postnatal	STR	striatum
+556	H376.XI.56_M1C	H376.XI.56	40 yrs	F		Late postnatal	M1C	primary motor cortex (area M1, area 4)
+557	H376.XI.56_IPC	H376.XI.56	40 yrs	F		Late postnatal	IPC	posteroventral (inferior) parietal cortex
+558	H376.XI.56_S1C	H376.XI.56	40 yrs	F		Late postnatal	S1C	primary somatosensory cortex (area S1, areas 3,1,2)
+559	H376.XI.56_CBC	H376.XI.56	40 yrs	F		Late postnatal	CBC	cerebellar cortex
+560	H376.XI.56_MD	H376.XI.56	40 yrs	F		Late postnatal	MD	mediodorsal nucleus of thalamus
