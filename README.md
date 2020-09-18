@@ -14,10 +14,9 @@
 &#8194;&#8194;&#8194;&#8194;&#8194;&#8194;  `>  BrainSpan_row_info = read.csv("rows_metadata.csv")`  
 &#8194;&#8194;&#8194;&#8194;&#8194;&#8194;  `>  BrainSpan_col_info = read.csv("columns_metadata.csv")`  
 &#8194;&#8194; The prepocess and imputation Rscript is avaiable at Tensor_imputation/Tensor_imputation.R. In this study, only protein coding genes were selected for downstream analysis. Each round imputation will take ~3 days when using single thread on Intel(R) Xeon(R) Platinum 8276L CPU. Here, as an example, you can only use the first 500 genes for testing.  
+&#8194;&#8194; The models' computational complexity is O (K^3), and given that K is much smaller than the number of dimensions, the models is practically useful for K values up to a few hundred. The tensor models are highly suitable for speedup using GPU and the tensorBF model can be scaled well with parallel computing. The tensor model is not memory intensive. For reasonable values of K, the number of parameters to be learned is much smaller than the size of tensor.  
 
 &#8194;&#8194; After model fitting, we used the factorized tensors to reconstruct the original tensor, which included not only the approximation of the measured samples, but also the newly generated values for the originally missing samples.   
-
-&#8194;&#8194; The models' computational complexity is O (K^3), and given that K is much smaller than the number of dimensions, the models is practically useful for K values up to a few hundred. The tensor models are highly suitable for speedup using GPU and the tensorBF model can be scaled well with parallel computing as well. Moreover, the model is not memory intensive. For reasonable values of K, the number of parameters to be learned is much smaller than the size of tensor.
 
 # 3. Evaluation
 &#8194;&#8194; We performed Leave-One-Out (LOO) cross-validation to evaluate the results. For each sample with measured transcriptome data, we constructed a tensor excluding this sample (i.e., the holdout sample), applied CP factorization, and imputed the missing transcriptome. Imputation performance was evaluated using four measurements: Pearson correlation coefficient (PCC), R-squared (R2), Root Mean Squared Error (RMSE), and Mean Absolute Error (MAE). We provide R codes at folder Tensor_imputation/Tensor_evaluation.R for imputation performance evaluation.   
