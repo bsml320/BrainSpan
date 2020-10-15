@@ -28,7 +28,7 @@
 &#8194;&#8194; To repeat our cell type deconvolution analysis results, user can download the cell type signatures from Cell_type_deconvolution folder, then apply CIBERSORT (https://cibersort.stanford.edu/).
 
 ### Requirements
-The R script rely on necessary R package, tensorBF, caret.
+&#8194;&#8194; The R script rely on several necessary R package, including tensorBF, caret.
 
 ## Citation
 Pei G, Wang Y, Simon L, Dai Y, Zhao Z, Jia P. Gene expression imputation and cell type deconvolution in human brain with spatiotemporal precision and its implications for brain-related disorders. Genome Research. Under review
