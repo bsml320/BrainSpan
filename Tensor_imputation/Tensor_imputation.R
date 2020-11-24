@@ -1,4 +1,4 @@
-setwd("F:/4.UThealth_study/23.Brainspan_WGCNA/Manuscript_Github_code/Tensor_imputation")
+setwd("BrainSpan-master/Tensor_imputation")
 
 #Part I  BrainSpan Tensor construction
 #==================================================================================
